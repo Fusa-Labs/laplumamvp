@@ -1,0 +1,105 @@
+[
+  {
+    "id": "combo-emprendedor-imparable",
+    "name": "Emprendedor Imparable",
+    "tagline": "Kit de Productividad",
+    "badge": "Recomendado",
+    "emojis": "🚀💼",
+    "gradient": "from-emerald-600/90 to-teal-500/90",
+    "accentColor": "emerald",
+    "description": "La caja de herramientas definitiva para gestionar tu negocio. Planificación semanal ágil, registro minucioso de tus ventas e ingresos, y orden en tus facturas.",
+    "included": [
+      "Cuaderno de Pedidos (Tallas y stock)",
+      "PERSONALIZADO - Planifico mi Semana",
+      "Sobres de pvc FLORES (Con broche A4)"
+    ],
+    "originalPrice": 2230,
+    "price": 1700
+  },
+  {
+    "id": "combo-bitacora-del-alma",
+    "name": "Bitácora del Alma",
+    "tagline": "Ritual de Escritura",
+    "badge": "Regalo Perfecto",
+    "emojis": "🗺️☕",
+    "gradient": "from-rose-500/90 to-amber-500/90",
+    "accentColor": "rose",
+    "description": "Un ritual de escritura impecable. Ideal para regalar o regalarte: escribe tus aventuras y pasiones mientras disfrutas un té caliente en tu taza favorita.",
+    "included": [
+      "Bitácora de viaje (Diseño a mano)",
+      "Tazas Sublimadas (Diseño a tono)",
+      "MarcaLibros (Exclusivo del taller)"
+    ],
+    "originalPrice": 1100,
+    "price": 950
+  },
+  {
+    "id": "combo-escritorio-mistico",
+    "name": "Escritorio Místico",
+    "tagline": "Armonía & Planificación",
+    "badge": "Más Vendido",
+    "emojis": "🔮✨",
+    "gradient": "from-indigo-600/90 to-violet-500/90",
+    "accentColor": "indigo",
+    "description": "Sintonía y productividad en tu escritorio. Agendas místicas sin fecha límite, talonario rápido de pendientes y stickers hermosos para decorar tus días libres.",
+    "included": [
+      "PERPETUA - Agenda Diaria Mística",
+      "Listas (Pendientes rápidos)",
+      "Stickers de Papel (Troquelados)"
+    ],
+    "originalPrice": 1500,
+    "price": 1300
+  },
+  {
+    "id": "combo-maternidad-dulce",
+    "name": "Maternidad Dulce",
+    "tagline": "Maternidad & Recuerdos",
+    "badge": "Regalo de Baby Shower",
+    "emojis": "🤰👣",
+    "gradient": "from-pink-500/90 to-rose-400/90",
+    "accentColor": "pink",
+    "description": "Un kit tierno e inolvidable diseñado para registrar cada semana del crecimiento de tu bebé, organizar los patrones de sus primeras prendas y decorar su diario.",
+    "included": [
+      "Agenda de Embarazada (Control semanal)",
+      "Agenda de Tejidos (Patrones y medidas)",
+      "Stickers de Papel (Decorativos del taller)"
+    ],
+    "originalPrice": 1300,
+    "price": 1100
+  },
+  {
+    "id": "combo-chef-creativo",
+    "name": "Chef Creativo",
+    "tagline": "Cocina con Amor",
+    "badge": "Para el Hogar",
+    "emojis": "🍳📝",
+    "gradient": "from-amber-600/90 to-orange-500/90",
+    "accentColor": "amber",
+    "description": "El set ideal para plasmar tus secretos de cocina. Registra tus recetas familiares a todo color, ten a mano un bloc para la lista de compras y guarda recortes culinarios.",
+    "included": [
+      "Recetario Color (Platos y notas)",
+      "MiniBlock (Lista de compras rápido)",
+      "Sobres de pvc ANIMALES (Guardado hermético)"
+    ],
+    "originalPrice": 1050,
+    "price": 850
+  },
+  {
+    "id": "vale-obsequio",
+    "name": "Tarjeta de Regalo",
+    "tagline": "El Arte de Elegir",
+    "badge": "Detalle Exclusivo",
+    "emojis": "🎁✨",
+    "gradient": "from-amber-400/90 to-yellow-500/90",
+    "accentColor": "amber",
+    "description": "Sorprendé a esa persona especial dándole la llave a su propia experiencia de escritura. Con esta tarjeta, podrá explorar nuestro taller y elegir el tipo de costura, las hojas y la tela hecha a mano que mejor acompañe sus días.",
+    "included": [
+      "Definís el valor del obsequio a tu gusto",
+      "Libertad total para elegir telas, estampas y modelos",
+      "Una invitación a conectar con el papel"
+    ],
+    "originalPrice": 0,
+    "price": 0,
+    "isVoucher": true
+  }
+]

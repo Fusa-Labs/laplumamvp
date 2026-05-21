@@ -1,0 +1,381 @@
+[
+  {
+    "id": "agenda-24-profesionales",
+    "name": "Agenda 24 - Profesionales",
+    "price": 1200,
+    "description": "Agenda 2024 . En formato A5 (21 x 15cm) en hojas de 75g. Calendario anual 24/25. 2 días por página. Con horarios en punto y media para organizar tus pacientes o clientes. Tapa e  interior con logo de tu empresa.",
+    "images": [
+      "/catalogo/Agenda%2024%20-%20Profesionales/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "150 hojas de 75g",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "agenda-de-embarazada",
+    "name": "Agenda de Embarazada",
+    "price": 800,
+    "description": "Agenda perpetua, semana a la vista, dividida en trimestres, Tips, Control medico, Ecografías, Control de Peso, Lista de cosas para hacer, Pendientes, Preparativos,  Compras, Lista de nombres, El bolso para la maternidad, El Baby Shower. *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/Agenda%20de%20Embarazada/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "agenda-de-tejidos",
+    "name": "Agenda de Tejidos",
+    "price": 1180,
+    "description": "Como tomar las medidas, Abreviaturas, Referencias, Tablas de talles, Información útil sobre hilos, Lanas, Agujas, Lista de precios, Lista de compras, Proyectos personales. (Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/Agenda%20de%20Tejidos/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "agenda-para-modista",
+    "name": "Agenda para Modista",
+    "price": 1180,
+    "description": "Como tomar medidas, tablas de talles, Información útil, Lista de precios, Lista de compras, Proveedores, Proyectos personales. (Tapa meramente ilustrativa, solicite catálogo). *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/Agenda%20para%20Modista/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "bitacora-de-viaje",
+    "name": "Bitácora de viaje",
+    "price": 800,
+    "description": "Mapa para colocar destinos, Equipaje, check list, Cómo armar las valijas, Consejos, datos útiles, actividades, compras, gastos, etc (para 5 viajes), Planificación mensual y diaria, Excursiones, fotos, contactos. *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/Bit%C3%A1cora%20de%20viaje/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "cuaderno-de-pedidos",
+    "name": "Cuaderno de Pedidos",
+    "price": 990,
+    "description": "Datos del cliente, Detalle del pedido, Fecha de entrega, Seña, Resto, Forma de pago, Planilla de ventas. Dos pedidos por página. 160 páginas Total. *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/Cuaderno%20de%20Pedidos/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "hoy-te-propongo",
+    "name": "Hoy Te Propongo",
+    "price": 1400,
+    "description": "Hoy te propongo es un cuaderno con más de 300 actividades creativas, ideal para superar bloqueos creativos. En formato B5 (25 x 18cm) en hojas de 120g",
+    "images": [
+      "/catalogo/Hoy%20Te%20Propongo/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "60 hojas de 120g",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "listas",
+    "name": "Listas",
+    "price": 150,
+    "description": "Estas listas son ideales para anotar TODO lo que necesites",
+    "images": [
+      "/catalogo/Listas/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "marcalibros",
+    "name": "MarcaLibros",
+    "price": 0,
+    "description": "Hacemos MarcaLibros personalizados.\nConsulté tamaños y precios. Ideales para souvenirs o regalos empresariales",
+    "images": [
+      "/catalogo/MarcaLibros/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": true
+  },
+  {
+    "id": "miniblock",
+    "name": "MiniBlock",
+    "price": 60,
+    "description": "Notas adhesivas de 7,6cm x 5,1cm ideales para llevar en la cartuchera. Son de color 💛 amarillo. Cada MiniBlock trae 100 hojas.\nSi te gustan para regalar con el logo de tu empresa, escribime y te cuento más  ✨",
+    "images": [
+      "/catalogo/MiniBlock/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "100 hojas",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "organizador-de-ventas-a4",
+    "name": "Organizador de ventas A4",
+    "price": 1090,
+    "description": "Podes pedirlo con esa tapa que vez  o puede pedirlo con un color liso y el logo de tu emprendimiento. Dentro encontraras: Calendarios 2024/2025, Objetivos emprendedores, Objetivos financieros, Plantillas para registrar ideas de contenido, 240 notas de pedido, 30 planillas de registro de proveedores, 10 Planillas de gastos, 40 carillas para notas",
+    "images": [
+      "/catalogo/Organizador%20de%20ventas%20A4/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "40 carillas",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-diaria-mistica",
+    "name": "PERPETUA - Agenda Diaria Mística",
+    "price": 1200,
+    "description": "Uno de los diseños más pedidos por quienes necesitan igualdad en sus 7 días de la semana. Como puedes ver en las imágenes el sábado y el domingo son de carilla completa.\nAdemás encontrarás en ella un planner para cada mes en forma vertical. *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Diaria%20M%C3%ADstica/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-diaria-unisex",
+    "name": "PERPETUA - Agenda Diaria Unisex",
+    "price": 1200,
+    "description": "En ella vas a encontrar, un día por carilla sin fechas, para que comiences cuando lo necesites, en cualquier momento del año, Planners mensuales, Espacio para notas. *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Diaria%20Unisex/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-dos-dias-minimal",
+    "name": "PERPETUA - Agenda Dos Días Minimal",
+    "price": 820,
+    "description": "Diseño minimalista,  Dos días por paginas sin fechas, listo para completar, Planner mensual, Control de gastos, Notas.\n(Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Dos%20D%C3%ADas%20Minimal/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-dos-dias-turnos",
+    "name": "PERPETUA - Agenda Dos Días Turnos",
+    "price": 1000,
+    "description": "Incluye 2 días por pagina con horarios,  Datos para los clientes o pacientes, Planners mensual,  Fechas Importantes, Calendario 2023, Contactos, Notas.\n(Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Dos%20D%C3%ADas%20Turnos/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-semanal-abstracta-bn",
+    "name": "PERPETUA - Agenda Semanal Abstracta BN",
+    "price": 690,
+    "description": "Agenda semana a la vista sin fechas, lista para completar, Lista de pendientes, Contactos, Notas.\n(Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Semanal%20Abstracta%20BN/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-semanal-clasica",
+    "name": "PERPETUA - Agenda Semanal Clásica",
+    "price": 750,
+    "description": "Semana a la vista sin fechas, lista para completar, con horarios,  Fechas importantes, Contraseñas, Citas, Lista de pendientes, Control de Gastos, Notas.\n(Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Semanal%20Cl%C3%A1sica/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-semanal-corazones",
+    "name": "PERPETUA - Agenda Semanal Corazones",
+    "price": 690,
+    "description": "Agenda  semana a la vista sin fechas, lista para completar, Lista de pendientes, Contactos, Notas. (Tapa meramente ilustrativa, solicite catálogo) *Decoraciones de las fotos no están incluidas.* Si usted desea cambiar el color de la tapa y colocar su nombre en la misma, Antes de comprar debe comunicarse con nosotros para poder recibir el catálogo de colores para la tapa y poder enviar su nombre para colocarlo dentro del diseño. Algunas agendas y cuadernos tienen diseño de tapa fija. *Estos cuadernos, agendas y planificadores tienen una demora de 7 – 15 días de realización, pues son productos hechos a mano.*",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20Semanal%20Corazones/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-semanal-primavera",
+    "name": "PERPETUA - Agenda semanal primavera",
+    "price": 690,
+    "description": "Semana a la vista sin fechas, para completar, Separado por mes con caratula, Contraseñas, Citas, Fechas importantes, Notas.",
+    "images": [
+      "/catalogo/PERPETUA%20-%20Agenda%20semanal%20primavera/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "perpetua-agenda-semanal-paris",
+    "name": "PERPETUA Agenda Semanal Paris",
+    "price": 690,
+    "description": "Agenda  semana a la vista sin fechas, lista para completar, Lista de pendientes, Contactos, Notas.",
+    "images": [
+      "/catalogo/PERPETUA%20Agenda%20Semanal%20Paris/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "personalizado-cuadernos-a-pedido",
+    "name": "PERSONALIZADO - Cuadernos a Pedido",
+    "price": 790,
+    "description": "Cuadernos personalizados en tamaño A5 (12cm x 15cm) de 75g. Con tapa de 1,5 mm de espesor. Laminado Brillo. 150 hojas. Puede ser liso, con renglones o con puntos.",
+    "images": [
+      "/catalogo/PERSONALIZADO%20-%20Cuadernos%20a%20Pedido/1.png"
+    ],
+    "fabric": "Tapa dura con laminado brillo",
+    "paper": "150 hojas",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "personalizado-planifico-mi-semana",
+    "name": "PERSONALIZADO - Planifico mi Semana",
+    "price": 0,
+    "description": "Imágenes ilustrativas de un Planifico mi Semana Personalizado.\nEsta es una agenda A5 (21cm x 15 cm) en 75 g donde la creamos juntos para que llenes de alegria al llevarla a todos lado.\nConsulta por las modificaciones que se pueden realizar, y accesorios que se pueden colocar 💕 Este producto se hace a pedido con un máximo de 150 hojas y con tapas de 1,5 mm de espesor y con laminado brillo en su tapa. *Consulte costo*",
+    "images": [
+      "/catalogo/PERSONALIZADO%20-%20Planifico%20mi%20Semana/1.png"
+    ],
+    "fabric": "Tapa dura con laminado brillo",
+    "paper": "150 hojas",
+    "inStock": true,
+    "isConsult": true
+  },
+  {
+    "id": "planificador-semanal-en-formato-cuaderno-b5",
+    "name": "Planificador Semanal en formato cuaderno B5",
+    "price": 790,
+    "description": "Cuaderno de 25 x 17 cm.\nEl diseño de la tapa es personalizado. EN su interior encontraras una carilla con diseño de planificador y en la otra carilla renglones para escribir.60 hojas de 120g. Ideal para la oficina.",
+    "images": [
+      "/catalogo/Planificador%20Semanal%20en%20formato%20cuaderno%20B5/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "60 hojas de 120g",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "recetario-color",
+    "name": "Recetario Color",
+    "price": 650,
+    "description": "Recetario para tus secretos mejor guardados. Con espacio para un total de 120 recetas. Dividido en Recetas Dulces y Recetas Saladas.\nY con 8 recetas ya escritas 👍",
+    "images": [
+      "/catalogo/Recetario%20Color/1.png"
+    ],
+    "fabric": "Encuadernación artesanal premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "sobres-de-pvc-animales",
+    "name": "Sobres de pvc ANIMALES",
+    "price": 60,
+    "description": "Sin descripción disponible.",
+    "images": [
+      "/catalogo/Sobres%20de%20pvc%20ANIMALES/1.png"
+    ],
+    "fabric": "PVC resistente de alta calidad",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "sobres-de-pvc-bn",
+    "name": "Sobres de pvc BN",
+    "price": 60,
+    "description": "Sin descripción disponible.",
+    "images": [
+      "/catalogo/Sobres%20de%20pvc%20BN/1.png"
+    ],
+    "fabric": "PVC resistente de alta calidad",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "sobres-de-pvc-flores",
+    "name": "Sobres de pvc FLORES",
+    "price": 60,
+    "description": "Sobres de pvc. Con broche. Tamaño A4\nConsulté disponibilidad",
+    "images": [
+      "/catalogo/Sobres%20de%20pvc%20FLORES/1.png"
+    ],
+    "fabric": "PVC resistente de alta calidad",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "stickers-de-papel",
+    "name": "Stickers de Papel",
+    "price": 20,
+    "description": "Llegaron los stickers de Papel 😀\nAptos para cuadernos, libretas, agendas, laptops.\nEstás imágenes son meramente ilustrativas.\nLos stickers los seleccionas tu 🤘😎\nMínimo de sticker 12",
+    "images": [
+      "/catalogo/Stickers%20de%20Papel/1.png"
+    ],
+    "fabric": "Papel adhesivo troquelado",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "isConsult": false
+  },
+  {
+    "id": "tazas-sublimadas",
+    "name": "Tazas Sublimadas",
+    "price": 170,
+    "description": "Tazas de 11 oz (325ml), los mismo se subliman con el diseño a convenir con el cliente. Estas imágenes son ejemplos de como quedarían los distintos diseños",
+    "images": [
+      "/catalogo/Tazas%20Sublimadas/1.png"
+    ],
+    "fabric": "Cerámica sublimada premium",
+    "paper": "Papel ecológico de alta calidad",
+    "inStock": true,
+    "originalPrice": 200,
+    "discount": 15,
+    "isConsult": false
+  }
+]
